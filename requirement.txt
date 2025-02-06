@@ -1,0 +1,4 @@
+firecrawl
+streamlit
+pandas
+inspect
